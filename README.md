@@ -16,6 +16,6 @@
 </ul>
 
 # Proje Bağlantı Linki
-
+https://shopping-cart-hs11.netlify.app/
 
 # Shopping-Cart-hs11-Proje Gifi
