@@ -19,3 +19,4 @@
 https://shopping-cart-hs11.netlify.app/
 
 # Shopping-Cart-hs11-Proje Gifi
+![shopping-gif](https://github.com/user-attachments/assets/dbb08057-b07d-4163-8149-cb1fae78c2e1)
